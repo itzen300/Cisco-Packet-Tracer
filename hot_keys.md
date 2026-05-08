@@ -1,3 +1,6 @@
+<img width="1034" height="286" alt="image" src="https://github.com/user-attachments/assets/33252f10-dbff-4265-bb29-207f434e1d50" />
+
+
 | Full Command                       | Short Form             |
 | ---------------------------------- | ---------------------- |
 | enable                             | `en`                   |
